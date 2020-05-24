@@ -1,7 +1,7 @@
 # TSLogger
 Outputs log on bottom of screen in Twilight Struggle to Log Files
 
-Quickstart
+## Quickstart
 
 1. Right Click on Twilight Struggle in Steam and click on "Properties"
 2. Go to "Local Files" at the top.
