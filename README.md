@@ -11,5 +11,3 @@ Outputs log on bottom of screen in Twilight Struggle to Log Files
 6. In the folder mentioned in 3 (where TwilightStruggle.exe is located), create a folder called "Logs." The game will not allow you to place influence if you do not have this folder.
 
 You will find logs located in a folder called "Logs" in the location mentioned in #3 (the same location as TwilightStruggle.exe is in).
-
-Also, this version of the DLL might be faster if it actually works (not throughly tested): https://github.com/JamesYouL2/TSLogger/tree/feature/updateforlag
